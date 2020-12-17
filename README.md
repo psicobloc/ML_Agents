@@ -9,5 +9,5 @@ https://commons.apache.org/proper/commons-math/download_math.cgi
 <br/><br/>
 Agentes:<br/>
 1.- Regresion lineal simple con least squares.<br/>
-2.- Regresion lineal multiple con least squares. (depende de Apache Commons Math)<br/>
+2.- Regresion lineal multiple con least squares.<br/>
 3.- K-Nearest Neighbours.</br>
